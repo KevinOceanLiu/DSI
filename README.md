@@ -1,7 +1,7 @@
 # R Codes for Degree of spatial interpretability
 
 ### Author
-Haiyang LIU
+Haiyang LIU; Yongze SONG; Wen YI
 ### Date
 2024/01/22
 ### Reference:
