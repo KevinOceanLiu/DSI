@@ -24,8 +24,6 @@ Your CSV must include these columns (recommended to use exactly these names):
 
 All other columns will be treated as X variables (used for Q-value stratification).
 
----
-
 ### 2) Edit the 4 parameters at the top of the script
 
 - `infile`: path to your CSV file  
@@ -38,8 +36,6 @@ All other columns will be treated as X variables (used for Q-value stratificatio
 - `alternative`: hypothesis for Moran’s I test  
   - Common choice: `"greater"` (tests for positive spatial autocorrelation)
 
----
-
 ### 3) What you get after running
 
 The script prints 7 metrics:
@@ -51,8 +47,6 @@ The script prints 7 metrics:
 - `θmin = min(ηa, ηh)`  
 - `θprobable = max(ηa, ηh)`  
 - `θmax = 1 − (1−ηa)(1−ηh)`
-
----
 
 ### 4) Common issues and fixes
 
