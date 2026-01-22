@@ -1,9 +1,12 @@
+### R Codes for Degree of spatial interpretability
+
 ##  Author
 Haiyang LIU
 ##  Date
 2024/01/22
 ## Reference:
 
+---
 
 ## Demo dataset
 
