@@ -1,5 +1,5 @@
 # R Codes for Degree of spatial interpretability
-
+---
 ### Author
 Haiyang LIU; Yongze SONG; Wen YI
 ### Date
