@@ -5,6 +5,7 @@ Haiyang LIU; Yongze SONG; Wen YI
 2026/01/22
 ### Reference:
 Liu, H., Song, Y., & Yi, W. (2026). Degree of spatial interpretability. International Journal of Geographical Information Science, 1–21. https://doi.org/10.1080/13658816.2026.2614335
+
 ---
 ### Demo dataset
 
